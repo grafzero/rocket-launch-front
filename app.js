@@ -18,8 +18,6 @@ xmlhttp.open("GET", url, true);
 xmlhttp.send();
 
 
-////////////////////////////////////////////////////////
-
 
 function createContent(arr) {
     var html = arr.html;
